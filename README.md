@@ -1,2 +1,3 @@
 # hello-world
-ideas, recursos
+info about me
+chileno, y aprendiendo de a poco
