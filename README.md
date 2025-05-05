@@ -1,3 +1,2 @@
 # hello-world
-info about me
-chileno, y aprendiendo de a poco
+print("jovén chileno aprendiz de python y estudiante de la lengua japonesa.")
